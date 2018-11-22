@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "445078202103",
+    "firebase_url": "https://memo-78355.firebaseio.com",
+    "project_id": "memo-78355",
+    "storage_bucket": "memo-78355.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445078202103:android:e16b1c6f1df5f3a9",
+        "android_client_info": {
+          "package_name": "com.example.user.myapplication1122"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445078202103-ed32e0thga2t54hti9dngqianpsvkeha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-z8WWwIzlkQtkApfFXe576KbuZvwMH0M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
